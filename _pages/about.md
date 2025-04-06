@@ -21,7 +21,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -31,5 +31,5 @@ My name is Danai Brilli and I graduated from a joint Bs/Ms in Computer Science f
 
 The motivation behind my research has always been to improve human health & quality of life through AI. My research interests lie in leveraging AI to advance our understanding of disease progression, develop personalized treatments and identify new therapeutic targets. I look forward to delving deeper in these areas during my PhD. 
 
-Feel free to reach out to me at my [email](mailto:danaibrilli@gmail.com) or [Linkedin](https://www.linkedin.com/in/danai-brilli) :).
+Feel free to reach out to me at my [email](mailto:danaibrilli@gmail.com) or [Linkedin](https://www.linkedin.com/in/danai-brilli) :)
 
