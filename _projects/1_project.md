@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Diploma Thesis: GHR-VQA"
-description: with background image
+title: "My diploma thesis: GHR-VQA"
+description: 
 img: #assets/img/thesis_method.png
 importance: 1
 category: research
-related_publications: true
+related_publications: false
 ---
 **GHR-VQA: Graph-guided Hierarchical Relational Reasoning for Video Question Answering**
 
