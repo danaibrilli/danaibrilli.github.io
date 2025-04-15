@@ -394,14 +394,14 @@ ninja.data = [{
             },},{id: "news-website-just-launched-stay-tuned-for-updates",
           title: 'Website just launched! Stay tuned for updates 🎉',
           description: "",
-          section: "News",},{id: "projects-diploma-thesis-ghr-vqa",
-          title: 'Diploma Thesis: GHR-VQA',
-          description: "with background image",
+          section: "News",},{id: "projects-my-diploma-thesis-ghr-vqa",
+          title: 'My diploma thesis: GHR-VQA',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-early-alzheimer-39-s-detection",
+          title: 'Early Alzheimer&amp;#39;s Detection',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
