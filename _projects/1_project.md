@@ -2,7 +2,7 @@
 layout: page
 title: "Diploma Thesis: GHR-VQA"
 description: with background image
-img: assets/img/thesis_method.png
+img: #assets/img/thesis_method.png
 importance: 1
 category: research
 related_publications: true
@@ -17,11 +17,11 @@ Our approach increases accuracy scores across benchmarks and produces more seman
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/thesis_method.png" title="GHR-VQA Methodology" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/thesis_method.jpg" title="GHR-VQA Methodology" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Our proposed architecture: The process begins with the input of a question and a corresponding video. Initially, we perform clip selection and pass the segments through an SGG model to extract scene graphs that represent the visual elements and their interrelationships. These extracted scene graphs are processed by a GNN, which generates meaningful embeddings. The embeddings are then fed into a hierarchical network, which integrates and contextualizes the information across different levels of abstraction to generate a comprehensive understanding in relation to the query and finally answer the question.
 </div>
 
-This work was submitted to the 33rd European Signal Processing Conference (EUSIPCO 2025) and the pre-print can be found [here][{{ '/assets/pdf/Brilli_GHR-VQA_final.pdf' | relative_url }}]
+This work was submitted to the 33rd European Signal Processing Conference (EUSIPCO 2025) and the pre-print can be found [here]({{ site.url }}/assets/pdf/Brilli_GHR-VQA_final.pdf).
