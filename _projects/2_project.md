@@ -12,8 +12,7 @@ To deepen my background in medical imaging, I decided to apply for IEEE Student 
 
 Deteccing Alzheimers at an early stage, even before the appearance of significant symptoms can enable timely interventions that can delay the disease progression and improve patients' quality of life. The hippocampus, a critical brain region responsible for memory and learning is one of the first areas affected by Alzheimer. Therefore, accurately identifying changes in the hippocampus is essential for diagnosing early Alzheimer's. 
 
-The first step of our methodology is to identify the prominent slice, which is one that contains the hippocampus. To do that we leverage multifractal analysis on saggital views. We then use a foundation model, SAM,  to segment the hippocampal region and then a Visual Transformer to extract visual embeddings that provide a high-level representation of the hippocampus. Finally, the embeddings are passed through an ensemble classification model. In summary, by combining multi-fractal analysis, foundation models and advanced classification techniques, we are able to achieve a robust method for early
-Alzheimer's detection. 
+The first step of our methodology is to identify the prominent slice, which is one that contains the hippocampus. To do that we leverage multifractal analysis on saggital views. We then use a foundation model, SAM,  to segment the hippocampal region and then a Visual Transformer to extract visual embeddings that provide a high-level representation of the hippocampus. Finally, the embeddings are passed through an ensemble classification model. In summary, by combining multi-fractal analysis, foundation models and advanced classification techniques, we are able to achieve a robust method for early Alzheimer's detection. 
 
 
 <div class="row">
