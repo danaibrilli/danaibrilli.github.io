@@ -394,8 +394,8 @@ ninja.data = [{
             },},{id: "news-website-just-launched-stay-tuned-for-updates",
           title: 'Website just launched! Stay tuned for updates 🎉',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-diploma-thesis-ghr-vqa",
+          title: 'Diploma Thesis: GHR-VQA',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
