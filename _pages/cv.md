@@ -9,4 +9,4 @@ description: #This is a description of the page. You can modify it in '_pages/cv
 toc:
   sidebar: left
 ---
-<meta http-equiv="refresh" content="0; url=/assets/pdf/CV_Danai_Brilli.pdf">
+<meta http-equiv="refresh" content="0; url=/assets/pdf/CV_Danai_Brilli_2025.pdf">
