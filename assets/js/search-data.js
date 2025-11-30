@@ -394,7 +394,20 @@ ninja.data = [{
             },},{id: "news-website-just-launched-stay-tuned-for-updates",
           title: 'Website just launched! Stay tuned for updates 🎉',
           description: "",
-          section: "News",},{id: "projects-my-diploma-thesis-ghr-vqa",
+          section: "News",},{id: "news-i-have-started-my-phd-in-machine-learning-in-life-sciences-mlls-at-the-university-of-copenhagen-supervised-by-ole-winther-with-co-supervision-from-maria-brbić-and-her-mlbio-lab-epfl-as-part-of-the-ellis-phd-program",
+          title: 'I have started my PhD in Machine Learning in Life Sciences (MLLS) at...',
+          description: "",
+          section: "News",},{id: "news-announcement-4",
+          title: 'Announcement_4',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4/";
+            },},{id: "news-announcement-3",
+          title: 'Announcement_3',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "projects-my-diploma-thesis-ghr-vqa",
           title: 'My diploma thesis: GHR-VQA',
           description: "",
           section: "Projects",handler: () => {
