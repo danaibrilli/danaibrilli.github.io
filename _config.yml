@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Danai
-middle_name: 
+middle_name:
 last_name: Brilli
 contact_note: #>
   #You can even add a little note about which of these is the best way to reach you.
@@ -173,8 +173,6 @@ kramdown:
 # Includes & excludes
 include: ["_pages", "_scripts"]
 exclude:
-  - _news/announcement_2.md
-  - _news/announcement_3.md
   - _pages/blog
   - _pages/books
   - _pages/profiles

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Medical AI Researcher & Prospective PhD Student
+subtitle: ELLIS PhD @ University of Copenhagen (KU) & EPFL
 profile:
   align: right
   image: profile_pic.jpeg
@@ -27,9 +27,11 @@ latest_posts:
 ---
 
 Hello everyone!
-My name is Danai Brilli and I graduated from a joint Bs/Ms in Computer Science from the Electrical & Computer Engineering School at the National Technical University of Athens (NTUA). I am currently pursuing a second MSc on Translational Engineering in Health and Medicine at NTUA, while also working as a researcher on Medical Imaging at the University of Pennsylvania, working on brain cancer. 
+My name is Danai Brilli and I am a PhD student at MLLS (KU) and MLBio (EPFL) groups, supervised by Prof. Ole Winther and Prof. Maria Brbić. My research focuses on the intersection of AI and Biology, with the goal of building multimodal single-cell foundation models that advance our understanding of disease and enable personalized medicine.
 
-The motivation behind my research has always been to improve human health & quality of life through AI. My research interests lie in leveraging AI to advance our understanding of disease progression, develop personalized treatments and identify new therapeutic targets. I look forward to delving deeper in these areas during my PhD. 
+I have graduated from a joint Bs/Ms in Computer Science from the Electrical & Computer Engineering School at the National Technical University of Athens (NTUA). I recently completed a second MSc in Translational Engineering in Health and Medicine at NTUA, while also working as a researcher in Medical Imaging at the University of Pennsylvania, focusing on AI for brain cancer. 
+
+The motivation behind my research has always been to improve human health & quality of life through AI. My research interests lie in leveraging AI to advance our understanding of disease progression, develop personalized treatments and identify new therapeutic targets.
 
 Feel free to reach out to me at my [email](mailto:danaibrilli@gmail.com) or [Linkedin](https://www.linkedin.com/in/danai-brilli) :)
 {: .text-justify}
