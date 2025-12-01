@@ -397,17 +397,13 @@ ninja.data = [{
           section: "News",},{id: "news-i-have-started-my-phd-in-machine-learning-in-life-sciences-mlls-at-the-university-of-copenhagen-supervised-by-ole-winther-with-co-supervision-from-maria-brbić-and-her-mlbio-lab-epfl-as-part-of-the-ellis-phd-program",
           title: 'I have started my PhD in Machine Learning in Life Sciences (MLLS) at...',
           description: "",
-          section: "News",},{id: "news-announcement-4",
-          title: 'Announcement_4',
+          section: "News",},{id: "news-our-paper-ghr-vqa-graph-guided-hierarchical-relational-reasoning-for-video-question-answering-was-accepted-at-the-1st-workshop-on-from-scene-understanding-to-human-modeling-of-the-british-machine-vision-conference-bmvc-2025",
+          title: 'Our paper GHR-VQA: Graph-guided Hierarchical Relational Reasoning for Video Question Answering was accepted...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_4/";
-            },},{id: "news-announcement-3",
-          title: 'Announcement_3',
+          section: "News",},{id: "news-i-successfully-defended-my-msc-thesis-in-translational-engineering-in-health-and-medicine-at-ntua-on-ai-based-methods-for-brain-cancer-analysis",
+          title: 'I successfully defended my MSc thesis in Translational Engineering in Health and Medicine...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
-            },},{id: "projects-my-diploma-thesis-ghr-vqa",
+          section: "News",},{id: "projects-my-diploma-thesis-ghr-vqa",
           title: 'My diploma thesis: GHR-VQA',
           description: "",
           section: "Projects",handler: () => {
